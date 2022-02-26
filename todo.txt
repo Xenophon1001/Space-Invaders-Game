@@ -1,0 +1,10 @@
+Todolist in no particular order
+
+1 - lives counter + the displaying of that
+2 - decide enemies to include + add assets for each enemy type
+3 - tell logan what to do (what he can do)
+4 - change it to galaga instead of spaceinvaders bc thats what it is
+5 - come up with the rest of the controls and the keys for them
+6 - implement powerups
+7 - Implement double ship thing (ask logan if confused)
+8 - finish todo list
